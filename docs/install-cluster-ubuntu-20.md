@@ -30,6 +30,8 @@ net.bridge.bridge-nf-call-ip6tables = 1
 net.bridge.bridge-nf-call-iptables = 1
 EOF
 sysctl --system
+![image](https://user-images.githubusercontent.com/85927700/217590468-0d5cd130-5392-4ea9-85f8-161444bca06d.png)
+
 ```
 ##### Install docker engine
 ```

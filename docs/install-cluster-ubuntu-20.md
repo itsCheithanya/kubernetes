@@ -104,5 +104,8 @@ kubectl get nodes
 ```
 kubectl get cs
 ```
+# remove node
+![image](https://user-images.githubusercontent.com/85927700/217876784-f4120bea-5150-4007-a6d6-59ed71657919.png)
+
 
 Have Fun!!
